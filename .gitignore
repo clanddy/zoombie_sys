@@ -1,0 +1,21 @@
+.DS_Store
+.cache/
+
+# Unity generated
+unity/AshenDao/Library/
+unity/AshenDao/Temp/
+unity/AshenDao/Logs/
+unity/AshenDao/Obj/
+unity/AshenDao/UserSettings/
+unity/AshenDao/Builds/
+unity/AshenDao/*.csproj
+unity/AshenDao/*.sln
+
+# .NET test/compile artifacts
+scripts/unity-sim-tests/bin/
+scripts/unity-sim-tests/obj/
+
+# IDE
+.vscode/
+.idea/
+*.user
